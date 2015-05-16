@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, K24 Kenya
+#EXTINF:-1, K24 
 rtmp://mediamax.cs.netromedia.net/K24test playpath=K24test swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=08ad3a43-97a5-4d23-973f-d726bc2bd52a&iframe=true&h=480&w=640&autoPlay=false&scaling=scale
 
 #EXTINF:-1, Eri TV
 rtmp://173.192.70.133:1935/live playpath=myStream swfUrl=http://www.eri.tv/flowplayer-3.2.8.swf pageUrl=http://player.netromedia.com/?ID=08ad3a43-97a5-4d23-973f-d726bc2bd52a&iframe=true&h=480&w=640&autoPlay=false&scaling=scale
 
-end
+
